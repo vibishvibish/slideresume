@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>vibish</title>
+</head>
+<body>
+<link rel="stylesheet" type="text/css" href="css/style.css"/>
+<ul>
+<li><a href="resume.html">Home</a></li>
+<li><a href="About.html">About</a></li>
+<li><a href="#">Education</a></li>
+<li><a href="#">Sports</a></li>
+<li><a href="#">Contact</a></li>
+</ul>
+<h3>Vibish</h3>
+
+<br>
+<p>Hello, I'm <br><span>  Vibish</span><br>This is my official website to showes all<br>Details and work exiprins web development</p>
+
+</body>
+</html>

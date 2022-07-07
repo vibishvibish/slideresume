@@ -1,0 +1,38 @@
+body
+{
+background-image:url("../image/1.jpg");
+background-size:100%;
+border:1px solid white;
+}
+ul li
+{
+	display:inline;
+	text-decoration:none;
+	color:white;
+	font-size:20px;
+}
+ul
+{
+	float:right;
+	padding:0px 50px;
+	word-spacing:30px;
+}
+a 
+{
+	text-decoration:none;
+	color:white;
+}
+a:hover
+{
+	opacity:0.5;
+	color:#EE143C;
+}
+table,th,tr,td
+{
+ border: 1px solid white;
+ color: white;
+ border-collapse: collapse;
+ margin: 250px;
+ letter-spacing: 1px;
+ padding: 20px 20px;
+}
